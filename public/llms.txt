@@ -1,0 +1,106 @@
+# D&L — Generative Engine Optimization Map
+
+> A handmade jewelry brand that combines quality craftsmanship with affordable pricing. The business emphasizes the artisanal, handcrafted nature of its products while making them accessible to a wide audience. The brand identity balances luxury feel with value-for-money positioning, appealing to customers who appreciate unique, hand-crafted pieces without the premium price tag.
+
+---
+
+## Pages
+
+### בית
+https://d-l-56d8a21c.zappy5.app
+חנות תכשיטים איכותיים בעבודת יד המשלבת אומנות קפדנית עם מחירים נגישים. עיצובים ייחודיים לכל כיס שמרגישים כמו יוקרה. היכנסו עכשיו והתחילו להתאהב!
+
+### אודות
+https://d-l-56d8a21c.zappy5.app/about
+הכירו את המותג D&amp;L: איך הפכנו תשוקה לאומנות יד למהפכת תכשיטים איכותיים בעבודת יד במחיר הוגן. הציצו אל מאחורי הקלעים של היצירה שלנו.
+
+### איכות בעבודת יד
+https://d-l-56d8a21c.zappy5.app/handmade-quality
+גלו מה הופך תכשיטים איכותיים בעבודת יד ליצירת מופת: חומרים מובחרים, טכניקות מסורתיות ותשומת לב לכל פרט. למה להתפשר כשיש איכות אמיתית בהישג יד?
+
+### שאלות נפוצות
+https://d-l-56d8a21c.zappy5.app/faq
+איך מטפלים בתכשיטים איכותיים בעבודת יד? משלוחים? התאמה אישית? כל התשובות לשאלות הנפוצות מחכות לכם כאן. אל תישארו עם ספקות — כנסו עכשיו!
+
+### צור קשר
+https://d-l-56d8a21c.zappy5.app/contact
+יש רעיון לתכשיט בעבודת יד? צריכים עזרה בבחירה? צוות D&amp;L כאן להקשיב, לייעץ ולהפוך חלום לתכשיט איכותי. השאירו פרטים ונתחיל ליצור קסם.
+
+### Products
+https://d-l-56d8a21c.zappy5.app/products
+המוצרים שלנו - D&L
+
+### Cart
+https://d-l-56d8a21c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://d-l-56d8a21c.zappy5.app/checkout
+תשלום
+
+### Login
+https://d-l-56d8a21c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://d-l-56d8a21c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://d-l-56d8a21c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://d-l-56d8a21c.zappy5.app/product/:slug
+פרטי המוצר - D&L
+
+### Category
+https://d-l-56d8a21c.zappy5.app/category/:slug
+מוצרים - D&L
+
+### תודה - D&L
+https://d-l-56d8a21c.zappy5.app/thank-you
+D&L - תודה - D&L
+
+## Legal & Policy
+
+### Privacy Policy
+https://d-l-56d8a21c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://d-l-56d8a21c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://d-l-56d8a21c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About D&L
+A handmade jewelry brand that combines quality craftsmanship with affordable pricing. The business emphasizes the artisanal, handcrafted nature of its products while making them accessible to a wide audience. The brand identity balances luxury feel with value-for-money positioning, appealing to customers who appreciate unique, hand-crafted pieces without the premium price tag.
+
+## Target Audience
+- נערות או ילדות שרוצות צמידי איכותיים בזול אזור ה10 לכל צמיד
+
+## Industry
+Handmade Jewelry E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://d-l-56d8a21c.zappy5.app/sitemap.xml
+- Robots: https://d-l-56d8a21c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://d-l-56d8a21c.zappy5.app/llms-full.txt
+- Products (JSON): https://d-l-56d8a21c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://d-l-56d8a21c.zappy5.app/product-feed.xml
