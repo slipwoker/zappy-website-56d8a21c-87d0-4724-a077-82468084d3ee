@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-15T08:29:26.827Z",
+  "generated_at": "2026-07-15T09:59:38.653Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "1e8a418f-b862-428a-aefb-d5022b603d7d",
+      "slug": "tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-3np9i9",
+      "name": "צמיד יד עם כוכב ים וחרוזים לבנים וכחולים ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צמיד יד קייצי ונותן וויב של קיץ בעיקר עם הכוכב ים ",
+      "sku": null,
+      "brand": "D&L",
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784109362049-n666ni.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-3np9i9",
+      "categories": [],
+      "updated_at": "2026-07-15T09:58:09.814Z"
+    }
+  ]
 }

@@ -4,6 +4,17 @@
     <title>D&amp;L</title>
     <link>https://example.com</link>
     <description>Product feed for D&amp;L</description>
-    <lastBuildDate>Wed, 15 Jul 2026 08:29:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:59:38 GMT</lastBuildDate>
+    <item>
+      <g:id>1e8a418f-b862-428a-aefb-d5022b603d7d</g:id>
+      <g:title>צמיד יד עם כוכב ים וחרוזים לבנים וכחולים </g:title>
+      <g:description>צמיד יד קייצי ונותן וויב של קיץ בעיקר עם הכוכב ים</g:description>
+      <g:link>https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-3np9i9</g:link>
+      <g:image_link>https://example.com/assets/product-1784109362049-n666ni.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>D&amp;L</g:brand>
+    </item>
   </channel>
 </rss>
