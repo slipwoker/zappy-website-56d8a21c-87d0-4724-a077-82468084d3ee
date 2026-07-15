@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://d-l-56d8a21c.zappy5.app
+https://example.com
 חנות תכשיטים איכותיים בעבודת יד המשלבת אומנות קפדנית עם מחירים נגישים. עיצובים ייחודיים לכל כיס שמרגישים כמו יוקרה. היכנסו עכשיו והתחילו להתאהב!
 
 ### אודות
-https://d-l-56d8a21c.zappy5.app/about
+https://example.com/about
 הכירו את המותג D&amp;L: איך הפכנו תשוקה לאומנות יד למהפכת תכשיטים איכותיים בעבודת יד במחיר הוגן. הציצו אל מאחורי הקלעים של היצירה שלנו.
 
 ### איכות בעבודת יד
-https://d-l-56d8a21c.zappy5.app/handmade-quality
+https://example.com/handmade-quality
 גלו מה הופך תכשיטים איכותיים בעבודת יד ליצירת מופת: חומרים מובחרים, טכניקות מסורתיות ותשומת לב לכל פרט. למה להתפשר כשיש איכות אמיתית בהישג יד?
 
 ### שאלות נפוצות
-https://d-l-56d8a21c.zappy5.app/faq
+https://example.com/faq
 איך מטפלים בתכשיטים איכותיים בעבודת יד? משלוחים? התאמה אישית? כל התשובות לשאלות הנפוצות מחכות לכם כאן. אל תישארו עם ספקות — כנסו עכשיו!
 
 ### צור קשר
-https://d-l-56d8a21c.zappy5.app/contact
+https://example.com/contact
 יש רעיון לתכשיט בעבודת יד? צריכים עזרה בבחירה? צוות D&amp;L כאן להקשיב, לייעץ ולהפוך חלום לתכשיט איכותי. השאירו פרטים ונתחיל ליצור קסם.
 
 ### Products
-https://d-l-56d8a21c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - D&L
 
 ### Cart
-https://d-l-56d8a21c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://d-l-56d8a21c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://d-l-56d8a21c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://d-l-56d8a21c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://d-l-56d8a21c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://d-l-56d8a21c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - D&L
 
 ### Category
-https://d-l-56d8a21c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - D&L
 
 ### תודה - D&L
-https://d-l-56d8a21c.zappy5.app/thank-you
+https://example.com/thank-you
 D&L - תודה - D&L
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://d-l-56d8a21c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://d-l-56d8a21c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://d-l-56d8a21c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ Handmade Jewelry E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://d-l-56d8a21c.zappy5.app/sitemap.xml
-- Robots: https://d-l-56d8a21c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://d-l-56d8a21c.zappy5.app/llms-full.txt
-- Products (JSON): https://d-l-56d8a21c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://d-l-56d8a21c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
