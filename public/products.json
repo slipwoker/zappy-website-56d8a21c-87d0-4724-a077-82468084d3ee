@@ -1,21 +1,43 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-15T10:01:36.547Z",
+  "generated_at": "2026-07-20T09:14:57.770Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
     {
+      "id": "5232e1e1-2158-4a78-8009-36723ab9756c",
+      "slug": "tsmyd-yd-am-tsb-lbn-am-chrvzym-btsba-lbn-vgvvny-kchvl-am-chrvzy-ksp-rz27we",
+      "name": "צמיד יד עם צב לבן עם חרוזים בצבע לבן וגווני כחול עם חרוזי כסף",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 10,
+      "base_price": 10,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784538646045-tq0ptg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tsmyd-yd-am-tsb-lbn-am-chrvzym-btsba-lbn-vgvvny-kchvl-am-chrvzy-ksp-rz27we",
+      "categories": [],
+      "updated_at": "2026-07-20T09:11:04.118Z"
+    },
+    {
       "id": "1e8a418f-b862-428a-aefb-d5022b603d7d",
-      "slug": "tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-3np9i9",
+      "slug": "tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-cj8xsd",
       "name": "צמיד יד עם כוכב ים וחרוזים לבנים וכחולים ",
       "name_translations": {},
       "description": "",
       "short_description": "צמיד יד קייצי ונותן וויב של קיץ בעיקר עם הכוכב ים ",
       "sku": null,
       "brand": "D&L",
-      "price": 0,
-      "base_price": 0,
+      "price": 10,
+      "base_price": 10,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -23,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-3np9i9",
+      "url": "https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-cj8xsd",
       "categories": [],
-      "updated_at": "2026-07-15T09:58:09.814Z"
+      "updated_at": "2026-07-15T10:02:10.815Z"
     }
   ]
 }

@@ -80,11 +80,17 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### צמיד יד עם צב לבן עם חרוזים בצבע לבן וגווני כחול עם חרוזי כסף
+https://example.com/product/tsmyd-yd-am-tsb-lbn-am-chrvzym-btsba-lbn-vgvvny-kchvl-am-chrvzy-ksp-rz27we
+- Price: 10.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-1784538646045-tq0ptg.webp
 
 ### צמיד יד עם כוכב ים וחרוזים לבנים וכחולים 
-https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-3np9i9
-- Price: 0.00 ILS
+https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-cj8xsd
+- Price: 10.00 ILS
 - Availability: In stock
 - Brand: D&L
 - Description: צמיד יד קייצי ונותן וויב של קיץ בעיקר עם הכוכב ים
