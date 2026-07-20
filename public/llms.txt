@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://d-l.zappy5.app
 חנות תכשיטים איכותיים בעבודת יד המשלבת אומנות קפדנית עם מחירים נגישים. עיצובים ייחודיים לכל כיס שמרגישים כמו יוקרה. היכנסו עכשיו והתחילו להתאהב!
 
 ### אודות
-https://example.com/about
+https://d-l.zappy5.app/about
 הכירו את המותג D&amp;L: איך הפכנו תשוקה לאומנות יד למהפכת תכשיטים איכותיים בעבודת יד במחיר הוגן. הציצו אל מאחורי הקלעים של היצירה שלנו.
 
 ### איכות בעבודת יד
-https://example.com/handmade-quality
+https://d-l.zappy5.app/handmade-quality
 גלו מה הופך תכשיטים איכותיים בעבודת יד ליצירת מופת: חומרים מובחרים, טכניקות מסורתיות ותשומת לב לכל פרט. למה להתפשר כשיש איכות אמיתית בהישג יד?
 
 ### שאלות נפוצות
-https://example.com/faq
+https://d-l.zappy5.app/faq
 איך מטפלים בתכשיטים איכותיים בעבודת יד? משלוחים? התאמה אישית? כל התשובות לשאלות הנפוצות מחכות לכם כאן. אל תישארו עם ספקות — כנסו עכשיו!
 
 ### צור קשר
-https://example.com/contact
+https://d-l.zappy5.app/contact
 יש רעיון לתכשיט בעבודת יד? צריכים עזרה בבחירה? צוות D&amp;L כאן להקשיב, לייעץ ולהפוך חלום לתכשיט איכותי. השאירו פרטים ונתחיל ליצור קסם.
 
 ### Products
-https://example.com/products
+https://d-l.zappy5.app/products
 המוצרים שלנו - D&L
 
 ### Cart
-https://example.com/cart
+https://d-l.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://d-l.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://d-l.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://d-l.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://d-l.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://d-l.zappy5.app/product/:slug
 פרטי המוצר - D&L
 
 ### Category
-https://example.com/category/:slug
+https://d-l.zappy5.app/category/:slug
 מוצרים - D&L
 
 ### תודה - D&L
-https://example.com/thank-you
+https://d-l.zappy5.app/thank-you
 D&L - תודה - D&L
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://d-l.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://d-l.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://d-l.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -83,18 +83,18 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 2**
 
 ### צמיד יד עם צב לבן עם חרוזים בצבע לבן וגווני כחול עם חרוזי כסף
-https://example.com/product/tsmyd-yd-am-tsb-lbn-am-chrvzym-btsba-lbn-vgvvny-kchvl-am-chrvzy-ksp-rz27we
+https://d-l.zappy5.app/product/tsmyd-yd-am-tsb-lbn-am-chrvzym-btsba-lbn-vgvvny-kchvl-am-chrvzy-ksp-rz27we
 - Price: 10.00 ILS
 - Availability: In stock
-- Image: https://example.com/assets/product-1784538646045-tq0ptg.webp
+- Image: https://d-l.zappy5.app/assets/product-1784538646045-tq0ptg.webp
 
 ### צמיד יד עם כוכב ים וחרוזים לבנים וכחולים 
-https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-cj8xsd
+https://d-l.zappy5.app/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-cj8xsd
 - Price: 10.00 ILS
 - Availability: In stock
 - Brand: D&L
 - Description: צמיד יד קייצי ונותן וויב של קיץ בעיקר עם הכוכב ים
-- Image: https://example.com/assets/product-1784109362049-n666ni.webp
+- Image: https://d-l.zappy5.app/assets/product-1784109362049-n666ni.webp
 
 ---
 
@@ -113,8 +113,8 @@ Handmade Jewelry E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://d-l.zappy5.app/sitemap.xml
+- Robots: https://d-l.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://d-l.zappy5.app/llms-full.txt
+- Products (JSON): https://d-l.zappy5.app/products.json
+- Products (Google Merchant RSS): https://d-l.zappy5.app/product-feed.xml

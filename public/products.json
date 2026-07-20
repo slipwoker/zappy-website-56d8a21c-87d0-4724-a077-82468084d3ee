@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T09:19:14.762Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-07-20T09:19:40.855Z",
+  "base_url": "https://d-l.zappy5.app",
   "currency": "ILS",
   "count": 2,
   "products": [
@@ -19,11 +19,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1784538646045-tq0ptg.webp"
+        "https://d-l.zappy5.app/assets/product-1784538646045-tq0ptg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tsmyd-yd-am-tsb-lbn-am-chrvzym-btsba-lbn-vgvvny-kchvl-am-chrvzy-ksp-rz27we",
+      "url": "https://d-l.zappy5.app/product/tsmyd-yd-am-tsb-lbn-am-chrvzym-btsba-lbn-vgvvny-kchvl-am-chrvzy-ksp-rz27we",
       "categories": [],
       "updated_at": "2026-07-20T09:11:04.118Z"
     },
@@ -41,11 +41,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1784109362049-n666ni.webp"
+        "https://d-l.zappy5.app/assets/product-1784109362049-n666ni.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-cj8xsd",
+      "url": "https://d-l.zappy5.app/product/tsmyd-yd-am-kvkb-ym-vchrvzym-lbnym-vkchvlym-cj8xsd",
       "categories": [],
       "updated_at": "2026-07-15T10:02:10.815Z"
     }
